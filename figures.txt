@@ -1,0 +1,14 @@
+LIST OF FIGURES
+………………………………………………………………………………………………......
+
+1. Figure 1 – MongoDB logo…………….…….8
+2. Figure 2 - Downloading MongoDB
+3. Figure 3 - Downloading MongoDB
+4. Figure 4 - use command in MongoDB
+5. Figure 5 - dropDatabase() command in MongoDB
+6. Figure 6 – Syntax of createCollection() method 
+7. Figure 7 – createCollection() in MongoDB
+8. Figure 8 – db.collection.drop() method in MongoDB
+9. Figure 9 – insert() method in MongoDB
+10. Figure 10 - Contents of the client folder
+11. Figure 11 - Contents of the server folder

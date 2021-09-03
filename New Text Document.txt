@@ -1,0 +1,12 @@
+mongodb+srv://taruna:<password>@cluster0.clmua.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+{
+    "name":"taruna",
+    "email":"taruna@saini.com",
+    "phone":123456789,
+    "branch":"CSE",
+    "year":2,
+    "rollno":"CO19366",
+    "password":"saini",
+    "cpassword":"saini"
+}
